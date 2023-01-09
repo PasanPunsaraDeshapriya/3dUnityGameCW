@@ -6,3 +6,6 @@ Created a empty project
 
 Pasan
 Created charater
+
+Kavindu
+Created a scene
