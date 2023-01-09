@@ -17,3 +17,6 @@ Created a scene
 
 Pasan
 Created text display when collied with boxes
+
+Pasan
+Created a minimap
